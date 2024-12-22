@@ -21,7 +21,7 @@ The Morse Code Converter processes a string of characters, translates each into 
 MorseCode-LED/
 │
 ├── src/
-│   ├── Lab_2.S        # Main assembly program for Morse code conversion
+│   ├── morsecode.S        # Main assembly program for Morse code conversion
 │   └── utils.S        # Additional subroutines (LED control, delay functions)
 │
 ├── data/
